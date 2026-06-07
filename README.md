@@ -1,6 +1,6 @@
 # import_on_server
 
-This example explores how to perform imports on server. We basically took the blog post on this topic !["Imports without tariffs. Nativly, with FileMaker Server"](https://blog.beezwax.net/imports-without-tariffs-natively-with-filemaker-server/) from many years ago and improved upon it.
+This example explores how to perform imports on server. We basically took the blog post on this topic ["Imports without tariffs. Nativly, with FileMaker Server"](https://blog.beezwax.net/imports-without-tariffs-natively-with-filemaker-server/) from many years ago and improved upon it.
 
 ## Access
 The credentials to access this file are. Note the account name is "admin" but the password is empty (no password). You will be asked to set a password when you open the file.
