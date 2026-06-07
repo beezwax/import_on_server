@@ -11,4 +11,4 @@ Password:
 ## The Example file
 Open the file, and set up the credentials for it. Then host it on FileMaker Server 26. Follow the onscreen prompts to import from the Large_Sales_Records.csv
 
-![Home](./images/home.png)
+![Home](./images/main.png)
