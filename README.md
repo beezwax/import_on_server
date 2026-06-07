@@ -10,3 +10,5 @@ Password:
 
 ## The Example file
 Open the file, and set up the credentials for it. Then host it on FileMaker Server 26. Follow the onscreen prompts to import from the Small_Sales_Records.csv. Note the original example import file had over 600k records in it. But it was too large so I made a smaller example file.
+
+![main](images/main.png)
